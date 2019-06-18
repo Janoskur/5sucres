@@ -1,0 +1,36 @@
+body
+{
+	background-image: url("fondsite.png");
+}
+
+p
+{
+	font-size: 1.2em;
+}
+
+.vert
+{
+	color: green;
+}
+
+
+.bleu
+{
+	color: blue;
+}
+
+.rouge
+{
+	color: red;
+}
+
+.blanc
+{
+	color: white;
+}
+
+h1
+{
+	text-align: left;
+	color: white;
+}
