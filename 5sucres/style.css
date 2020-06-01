@@ -1,0 +1,145 @@
+
+body
+{
+	background-image: url("background.png");
+}
+
+p
+{
+	font-size: 1.2em;
+	color:white;
+}
+
+.vert
+{
+	color: green;
+}
+
+
+.bleu
+{
+	color: blue;
+}
+
+.rouge
+{
+	color: red;
+}
+
+.blanc
+{
+	color: white;
+}
+
+h1
+{
+	font-family: Arial;
+	text-align: left;
+	color: white;
+	width: 100%;
+	background-color: #CCC;
+}
+
+.coucou
+{
+	text-align: left;
+	color: white;
+}
+
+li
+{
+	color: white;
+}
+
+h4
+{
+	color:white;
+	text-align: center;
+	border: 2px white dashed;
+	border-radius: 10px;
+}
+
+h2
+{
+	font-size: 15px
+	font-family: Monospace;
+	color: white;
+}
+
+
+h3
+{
+	color:white;
+	
+	font-size: 20px;
+
+}
+
+a:hover
+{
+ color:green;
+}
+a:active
+{
+	color:red;
+}
+
+footer
+{
+	font-size: 12px;
+	text-align: center;
+}
+
+
+.menu 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+.smenu
+{
+	background-color: lime;
+	color:white;
+	font-style: none;
+
+		  display: block;
+  padding: 20px;
+  background-color: lime;
+    float: left;
+
+      display: block;
+  padding: 8px;
+
+
+}
+.smenu:hover
+{
+	background-color: grey;
+}
+
+.menu2 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+.smenu2 
+{
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.smenu2:hover 
+{
+  background-color: #555;
+  color: white;
+}
